@@ -1,9 +1,8 @@
 def hello():
-    print("Missing tab")
-
+    print("Missing space")
 
 def bye():
-    print("bye")
+ print("Missing tab")
 
 
 print(hello())
